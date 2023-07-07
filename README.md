@@ -26,8 +26,7 @@ Depois q a tela com o ```if event.type == pygame.QUIT``` abriu, foi o elemento m
 Foram horas batendo cabeça para entender as partes dos códigos inclidos.
 
 ### 3. Finalizando por hoje
-No final do dia, fizemos o export do projeto para .exe
-Assim, podemos mandar para amigos e colegas se divertirem com um executável de windows.
+No final do dia, fizemos o export do projeto para ```.exe```. Assim, podemos mandar para amigos e colegas brincarem com o executável de windows.
 
 ### 4. Tecnologias Usadas
 * VS-Code

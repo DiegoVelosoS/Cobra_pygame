@@ -7,7 +7,7 @@
 ![Cobra Pygame](https://github.com/DiegoVelosoS/Cobra_pygame/assets/124423575/16ebe8cf-000f-4cb1-b4df-b32af6d461c8)
 
 ## Breve comentário
-Este foi meu 1º projeto usado a aplicação da linguagem com o uso de event initerrúptos. E nada melhor que um game, que basicamente são conjuntos de eventos um após outro.
+O título foi um trocadílho para este que foi meu 1º projeto usado a aplicação da linguagem com o uso de event initerrúptos. E nada melhor que um game, que basicamente são conjuntos de eventos um após outro.
 
 ## Na criação
 Como tudo na vida, surgiram vários probleminhas que com paciencia e percistência vamos pesquisando e solucionando um a um.

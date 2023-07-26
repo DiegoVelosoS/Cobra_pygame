@@ -3,8 +3,9 @@
 ![python](https://img.shields.io/badge/Python%20--%20blue?link=https%3A%2F%2Fwww.python.org/)
 ![pygame](https://img.shields.io/badge/Pygame%20--%20yellow?link=https%3A%2F%2Fwww.pygame.org%2Fnews)
 ![windowns](https://img.shields.io/badge/windows%20--%20gray)
-
-![Cobra Pygame](https://github.com/DiegoVelosoS/Cobra_pygame/assets/124423575/16ebe8cf-000f-4cb1-b4df-b32af6d461c8)
+<div align="center">
+<img src="https://github.com/DiegoVelosoS/Cobra_pygame/assets/124423575/16ebe8cf-000f-4cb1-b4df-b32af6d461c8">
+</div></br>
 
 ## Breve comentário
 O título foi um trocadílho para este que foi meu 1º projeto usado a aplicação da linguagem com o uso de event initerrúptos. E nada melhor que um game, que basicamente são conjuntos de eventos um após outro.

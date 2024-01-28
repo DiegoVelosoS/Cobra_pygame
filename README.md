@@ -13,6 +13,24 @@ O título foi um trocadílho para este que foi meu 1º projeto usado a aplicaç�
 ## Na criação
 Como tudo na vida, surgiram vários probleminhas que com paciencia e percistência vamos pesquisando e solucionando um a um.
 
+```bach
+Vamos pensar juntos na lógica
+	Para que o jogo funcione precisamos:
+		Criar a tela do jogo
+		Criar a cobra
+		Criar a maçã
+
+		Movimentar a cobrinha
+		UP   DOWN   LEFT   RIGHT
+
+		Verificar Colisão
+		Parede/Corpo	= Se colidir o jogo acaba
+				= Se não colidir o jogo continua
+
+		Maçã		= Se colidir a snake aumenta + nova maçã
+				= Se não colidir jogo continua
+```
+
 ### 1. Não abria a tela com o ```event quit```
 Diferente de outros sistemas operacionais, o Python não vem nativo no windows. Assim, deve-se instala-lo e, também, instalar outros módulos phyton, como por exemplo o pygame e random.
 Portando, deve-se abrir o Prompt de Comando do windows e digitar:
